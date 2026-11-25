@@ -130,3 +130,4 @@ movies.csv
 
 Projeto desenvolvido para fins educacionais, com foco em demonstrar
 conceitos de scraping e concorrência em Python.
+**Desenvolvido por:** Christian Marlon
